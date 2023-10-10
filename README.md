@@ -13,7 +13,7 @@
         <nav>
 <a href="index.html"> home </a>
 <a href="produtos.html"> produtos </a>
-        <a href="https://www.youtube.com/watch?v=odS4_rGOQ9I"> filme barbie </a>
+        <a href="https://www.martinsfontespaulista.com.br/panelinha-receitas-que-funcionam-1033901/p"> livro de receitas</a>
         </nav>
     </header
     
